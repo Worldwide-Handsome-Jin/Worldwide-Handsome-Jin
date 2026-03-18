@@ -21,9 +21,9 @@
 <div align="center">
 > Watch the snake eat through my GitHub contributions!
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Worldwide-Handsome-Jin/Worldwide-Handsome-Jin/blob/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Worldwide-Handsome-Jin/Worldwide-Handsome-Jin/blob/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://github.com/Worldwide-Handsome-Jin/Worldwide-Handsome-Jin/blob/output/github-contribution-grid-snake.svg">
 </picture>
 </div>
 <br/>
@@ -124,8 +124,8 @@
 <!-- GITHUB STATS -->
 📈 GitHub Stats
 <div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&border_color=21262d&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=8&theme=github_dark&border_color=21262d&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Worldwide-Handsome-Jin&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&border_color=21262d&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Worldwide-Handsome-Jin&layout=compact&langs_count=8&theme=github_dark&border_color=21262d&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9"/>
 </div>
 <div align="center">
 ![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=github-dark-blue&border=21262d&background=0d1117&ring=58A6FF&fire=FF7B72&currStreakLabel=58A6FF)
