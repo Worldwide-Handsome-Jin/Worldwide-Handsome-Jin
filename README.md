@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:21262d&height=120&section=header" width="100%"/>
-
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=22&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=700&lines=THIS+CHANGES+EVERYTHING.;%D0%AD%D1%82%D0%BE+%D0%B2%D1%81%D1%91+%D0%BC%D0%B5%D0%BD%D1%8F%D0%B5%D1%82.;THIS+CHANGES+EVERYTHING." alt="Typing SVG" />
 
 </div>
@@ -95,8 +93,6 @@
 </div>
 
 ---
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:21262d,50:161b22,100:0d1117&height=100&section=footer" width="100%"/>
 
 <div align="center">
   <sub>⚡ Built with passion · Powered by Python · Driven by data</sub>
