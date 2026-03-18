@@ -91,9 +91,3 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=Worldwide-Handsome-Jin&theme=github-dark-blue&border=21262d&background=0d1117&ring=58A6FF&fire=FF7B72&currStreakLabel=58A6FF)](https://git.io/streak-stats)
 
 </div>
-
----
-
-<div align="center">
-  <sub>⚡ Built with passion · Powered by Python · Driven by data</sub>
-</div>
