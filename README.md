@@ -79,19 +79,3 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 </div>
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Worldwide-Handsome-Jin&layout=compact&langs_count=8&theme=github_dark&border_color=21262d&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Worldwide-Handsome-Jin&theme=github-dark-blue&border=21262d&background=0d1117&ring=58A6FF&fire=FF7B72&currStreakLabel=58A6FF)](https://git.io/streak-stats)
-
-</div>
